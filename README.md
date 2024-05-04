@@ -1,16 +1,15 @@
 # **Software Engineer**
 
-
 #### Technical skills: C/C++, Python, MATLAB
 
 
 ## **Contact Information**
 - E-mail: paulchen.2713@gapp.nthu.edu.tw
-- Portfolio link: paulchen2713.github.io/portfolio/
+- Portfolio: [link](paulchen2713.github.io/portfolio/)
 
 
 ## **Job hunting**
-I have successfully passed my thesis defense, anticipate graduating in June of this year and am seeking **entry-level** job opportunities in embedded **firmware**, system **software**, and **AI/DSP/communications** algorithms, particularly interested in roles that demand proficiency in **C, C++**, or Python. I'm targeting positions in Hsinchu/Zhubei/Zhunan.
+I have passed my thesis defense, anticipate graduating in June of this year and am seeking **entry-level** job opportunities in embedded **firmware**, system **software**, and **AI/DSP/communications** algorithms, particularly interested in roles that demand proficiency in **C, C++**, or Python. I'm targeting positions in Hsinchu/Zhubei/Zhunan.
 
 
 ## **Education**

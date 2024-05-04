@@ -9,7 +9,7 @@
 
 
 ## **Job hunting**
-I have passed my thesis defense, anticipate graduating in June of this year and am seeking **entry-level** job opportunities in embedded **firmware**, system **software**, and **AI/DSP/communications** algorithms, particularly interested in roles that demand proficiency in **C, C++**, or Python. I'm targeting positions in Hsinchu/Zhubei/Zhunan.
+I have passed my thesis defense, anticipate graduating in June and am seeking **entry-level** job opportunities in embedded **firmware**, system **software**, and **AI/DSP/communications** algorithms, particularly interested in roles that demand proficiency in **C, C++**, or Python. I'm targeting positions in Hsinchu/Zhubei/Zhunan.
 
 
 ## **Education**

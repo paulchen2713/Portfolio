@@ -5,7 +5,7 @@
 
 ## **Contact Information**
 - E-mail: paulchen.2713@gapp.nthu.edu.tw
-- Portfolio: https://paulchen2713.github.io/Portfolio/
+- Portfolio: [https://paulchen2713.github.io/Portfolio/](https://paulchen2713.github.io/Portfolio/)
 
 
 ## **Job hunting**

@@ -8,11 +8,14 @@
 - Portfolio: [https://paulchen2713.github.io/Portfolio/](https://paulchen2713.github.io/Portfolio/)
 
 ## **Summary**
-I am set to graduate in June with an M.S. in Communications Engineering from National Tsing Hua University (NTHU), under the supervision of Prof. Wei-Ho Chung. My thesis research addresses non-convex discrete optimization problem in RIS-assisted MU-MISO mmWave Systems using **Proximal Policy Optimization (PPO)** and conventional **communication algorithms**. Additionally, my earlier research included **radar target detection**, **computer vision** and edge AI, specifically in developing custom YOLOv3 model from scratch for object detection. 
+I am set to graduate in June with an M.S. in Communications Engineering from National Tsing Hua University (NTHU), under the supervision of Prof. Wei-Ho Chung. 
+My thesis research addresses non-convex discrete optimization problem in RIS-assisted MU-MISO mmWave Systems using **Proximal Policy Optimization (PPO)** and conventional **communication algorithms**. 
+Additionally, my earlier research included **radar target detection**, **computer vision** and edge AI, specifically in developing custom YOLOv3 model from scratch for object detection. 
 
 
 ## **Job hunting**
-I am actively seeking **entry-level** positions in Hsinchu, Zhubei, and Zhunan. While I have a focused interest in embedded **firmware**, system **software**, and **AI/DSP/communications** algorithms, I am open to exploring all potential opportunities, regardless of their direct alignment with my academic background. I am a keen and passionate learner, equipped to quickly adapt and excel in fast-paced environments, mastering necessary skills and knowledge along the way.
+I am actively seeking **entry-level** positions in Hsinchu, Zhubei, and Zhunan. While I have a focused interest in embedded **firmware**, system **software**, and **AI/DSP/communications** algorithms, I am open to exploring all potential opportunities, regardless of their direct alignment with my academic background. 
+I am a keen and passionate learner, equipped to quickly adapt and excel in fast-paced environments, mastering necessary skills and knowledge along the way.
 
 
 ## **Education**
@@ -69,13 +72,13 @@ Competent, developed through extensive use in academic coursework and supplement
 
 |  Course |  Grades |
 | ------- | ------- |
-| COM 5345 Cooperative Communications and Networking    | A+ | 
-| COM 5242 Introduction to SoC and its Applications | A+ | 
-| CS 5291 Stochastic Process for Networking | A+ | 
-| COM 5220 Adaptive Signal Processing | A | 
-| COM 5120 Communications Theory | A- | 
-| COM 5170 Wireless Communication Systems | A- | 
-| COM 5335 Network Security | B+ | 
+| [COM 5345 Cooperative Communications and Networking](https://github.com/paulchen2713/NTHU-CCN_2022)    | A+ | 
+| [COM 5242 Introduction to SoC and its Applications](https://github.com/paulchen2713/NTHU-SoC_2022) | A+ | 
+| [CS 5291 Stochastic Process for Networking](https://github.com/paulchen2713/NTHU-Stochastic_Process_2022) | A+ | 
+| [COM 5220 Adaptive Signal Processing](https://github.com/paulchen2713/NTHU-ASP_2021) | A | 
+| [COM 5120 Communications Theory](https://github.com/paulchen2713/NTHU-Communication_Theory_2022) | A- | 
+| [COM 5170 Wireless Communication Systems](https://github.com/paulchen2713/NTHU-WCS_2021) | A- | 
+| [COM 5335 Network Security](https://github.com/paulchen2713/NTHU-Network_Security_2022) | B+ | 
 | COM 5180 Mathematical Methods for Communications | B | 
 
 

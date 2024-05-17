@@ -7,9 +7,12 @@
 - E-mail: paulchen.2713@gapp.nthu.edu.tw
 - Portfolio: [https://paulchen2713.github.io/Portfolio/](https://paulchen2713.github.io/Portfolio/)
 
+## **Summary**
+I am set to graduate in June with an M.S. in Communications Engineering from National Tsing Hua University (NTHU), under the supervision of Prof. Wei-Ho Chung. My thesis research addresses non-convex discrete optimization problem in RIS-assisted MU-MISO mmWave Systems using Proximal Policy Optimization (PPO) and conventional communication algorithms. Additionally, my earlier research included radar target detection, computer vision and edge AI, specifically in developing custom YOLOv3 model from scratch for object detection. 
+
 
 ## **Job hunting**
-I am set to graduate in June with an M.S. in Communications Engineering from National Tsing Hua University (NTHU). I am actively seeking **entry-level** job opportunities in in Hsinchu/Zhubei/Zhunan that focus on embedded **firmware**, system **software**, and **AI/DSP/communications** algorithms, particularly interested in roles that demand proficiency in **C, C++**, Python or MATLAB.
+I am actively seeking **entry-level** positions in Hsinchu, Zhubei, and Zhunan. While I have a focused interest in embedded **firmware**, system **software**, and **AI/DSP/communications** algorithms, I am open to exploring all potential opportunities, regardless of their direct alignment with my academic background. I am a keen and passionate learner, equipped to quickly adapt and excel in fast-paced environments, mastering necessary skills and knowledge along the way.
 
 
 ## **Education**

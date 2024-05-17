@@ -8,7 +8,7 @@
 - Portfolio: [https://paulchen2713.github.io/Portfolio/](https://paulchen2713.github.io/Portfolio/)
 
 ## **Summary**
-I am set to graduate in June with an M.S. in Communications Engineering from National Tsing Hua University (NTHU), under the supervision of Prof. Wei-Ho Chung. My thesis research addresses non-convex discrete optimization problem in RIS-assisted MU-MISO mmWave Systems using Proximal Policy Optimization (PPO) and conventional communication algorithms. Additionally, my earlier research included radar target detection, computer vision and edge AI, specifically in developing custom YOLOv3 model from scratch for object detection. 
+I am set to graduate in June with an M.S. in Communications Engineering from National Tsing Hua University (NTHU), under the supervision of Prof. Wei-Ho Chung. My thesis research addresses non-convex discrete optimization problem in RIS-assisted MU-MISO mmWave Systems using **Proximal Policy Optimization (PPO)** and conventional **communication algorithms**. Additionally, my earlier research included **radar target detection**, **computer vision** and edge AI, specifically in developing custom YOLOv3 model from scratch for object detection. 
 
 
 ## **Job hunting**
@@ -58,14 +58,11 @@ Competent, developed through extensive use in academic coursework and supplement
 
 
 ## **Working Paper (Under Review)**
-- S.-. Chen, H.-. Chang, C.-Y. Wang, R.-H. Hwang, and W.-H. Chung, "Worst-case MSE Minimization for RIS-assisted mmWave MU-MISO Systems with Hardware Impairments and Imperfect CSI," submitted to *IEEE Global Commun. Conf. (GLOBECOM)*, Dec. 2024.
+- S.-H. Chen, H.-Y. Chang, C.-Y. Wang, R.-H. Hwang, and W.-H. Chung, "Worst-case MSE Minimization for RIS-assisted mmWave MU-MISO Systems with Hardware Impairments and Imperfect CSI," submitted to *IEEE Global Commun. Conf. (GLOBECOM)*, Dec. 2024.
 
 
 ## **Publications**
 - C.-C. Lai*, J.-C. Lin, and S.-H. Chen, "Human gender recognition using gait-based local zigzag pattern", in *ICIC Express Letters – An International Journal of Research and Surveys*, vol.14, no.12, 1209-1215, Dec. 2020.
-
-
-## **Projects**
 
 
 ## **Graduate Courses / Grades**

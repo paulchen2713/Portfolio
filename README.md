@@ -19,7 +19,7 @@ I am a keen and passionate learner, equipped to quickly adapt and excel in fast-
 
 
 ## **Education**
-- M.S., Communications Engineering,  National Tsing Hua University (*Sep. 2021 - Jun. 2024*)
+- M.S., Communications Engineering,  National Tsing Hua University (*Sep. 2021 - May 2024*)
   - Advisor: Prof. Wei-Ho Chung ([Google Scholar](https://scholar.google.com/citations?user=5vpmKfkAAAAJ&hl=zh-TW), [Website](https://www.ee.nthu.edu.tw/whchung/index.html))
   - GPA: 3.86/4.3
   - Ranking: 29.50%

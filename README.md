@@ -8,7 +8,7 @@
 - Portfolio: [https://paulchen2713.github.io/Portfolio/](https://paulchen2713.github.io/Portfolio/)
 
 ## **Summary**
-I received my Master's degree in **Communications Engineering** from **National Tsing Hua University (NTHU)**, under the guidance of Professor Wei-Ho Chung. My research is primarily dedicated to solving optimization challenges in practical RIS-assisted MU-MISO mmWave systems, applying the **Deep Reinforcement Learning (DRL)** algorithm of **Proximal Policy Optimization (PPO)** along with the conventional **communications algorithm** of Maximum Ratio Transmission (MRT). In addition, my earlier research endeavors encompass **radar target detection**, **computer vision**, and **edge AI**. Notably, I developed a custom **YOLOv3** model from scratch, showcasing my capability to innovate and implement advanced technological solutions.
+I received my Master's degree in **Communications Engineering** from National Tsing Hua University (NTHU), under the guidance of Professor Wei-Ho Chung. My research is primarily dedicated to solving optimization challenges in practical RIS-assisted MU-MISO mmWave systems, applying the **Deep Reinforcement Learning (DRL)** algorithm of Proximal Policy Optimization (PPO) along with the conventional **communications algorithm** of Maximum Ratio Transmission (MRT). In addition, my earlier research endeavors encompass **radar target detection**, **computer vision**, and **edge AI**. Notably, I developed a custom **YOLOv3** model from scratch, showcasing my capability to innovate and implement advanced technological solutions.
 
 
 ## **Job hunting**

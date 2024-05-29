@@ -8,9 +8,7 @@
 - Portfolio: [https://paulchen2713.github.io/Portfolio/](https://paulchen2713.github.io/Portfolio/)
 
 ## **Summary**
-I am set to graduate in June with an M.S. in Communications Engineering from National Tsing Hua University (NTHU), under the supervision of Prof. Wei-Ho Chung. 
-My thesis research addresses non-convex discrete optimization problem in RIS-assisted MU-MISO mmWave Systems using **Proximal Policy Optimization (PPO)** and conventional **communication algorithms**. 
-Additionally, my earlier research included **radar target detection**, **computer vision** and edge AI, specifically in developing custom YOLOv3 model from scratch for object detection. 
+I received my Master's degree in **Communications Engineering** from National Tsing Hua University (NTHU), under the guidance of Professor Wei-Ho Chung. My research is primarily dedicated to solving optimization challenges in practical RIS-assisted MU-MISO mmWave systems, applying the deep reinforcement learning algorithm of Proximal Policy Optimization along with the conventional communication algorithm of Maximum Ratio Transmission (MRT). In addition, my earlier research endeavors encompass radar target detection, computer vision, and edge AI. Notably, I developed a custom YOLOv3 model from scratch, showcasing my capability to innovate and implement advanced technological solutions.
 
 
 ## **Job hunting**

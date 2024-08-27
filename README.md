@@ -63,7 +63,7 @@ Competent, developed through extensive use in academic coursework and supplement
 
 
 ## **Publications**
-- C.-C. Lai*, J.-C. Lin, and S.-H. Chen, "Human gender recognition using gait-based local zigzag pattern", in *ICIC Express Letters – An International Journal of Research and Surveys*, vol.14, no.12, 1209-1215, Dec. 2020.
+- C.-C. Lai\*, J.-C. Lin, and S.-H. Chen, "Human gender recognition using gait-based local zigzag pattern", in *ICIC Express Letters – An International Journal of Research and Surveys*, vol.14, no.12, 1209-1215, Dec. 2020.
 
 
 ## **Graduate Courses / Grades**

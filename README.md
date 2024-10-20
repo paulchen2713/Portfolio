@@ -6,14 +6,18 @@
 ## **Contact Information**
 - E-mail: paulchen.2713@gapp.nthu.edu.tw
 - Portfolio: [https://paulchen2713.github.io/Portfolio/](https://paulchen2713.github.io/Portfolio/)
+<!-- - Resume on HackMD: [https://hackmd.io/@Shao-Heng/r1cHBCbz0](https://hackmd.io/@Shao-Heng/r1cHBCbz0) -->
+
 
 ## **Summary**
-I received my Master's degree in **Communications Engineering** from National Tsing Hua University (NTHU), under the guidance of Professor Wei-Ho Chung. My research is primarily dedicated to solving optimization challenges in practical RIS-assisted MU-MISO mmWave systems, applying the **Deep Reinforcement Learning (DRL)** algorithm of Proximal Policy Optimization (PPO) along with the conventional **communications algorithm** of Maximum Ratio Transmission (MRT). In addition, my earlier research endeavors encompass **radar target detection**, **computer vision**, and **edge AI**. Notably, I developed a custom YOLOv3 model from scratch, showcasing my capability to innovate and implement advanced technological solutions.
+I received my Master’s degree in Communications Engineering from NTHU in May 2024. My research primarily focuses on solving optimization challenges in communication systems, and my earlier research endeavors include radar target detection, computer vision, and edge AI.
+
+I am working full-time at ITRI as a software engineer, designing real-time baseband algorithms for 5G NR and developing hardware-dependent DSP code that runs on our custom-designed RISC-V processors. 
 
 
-## **Job hunting**
-I am actively seeking **entry-level** positions in Hsinchu, Zhubei, and Zhunan. While I have a focused interest in embedded **firmware**, system **software**, and **AI/DSP/communications** algorithms, I am open to exploring all potential opportunities, regardless of their direct alignment with my academic background. 
-I am a keen and passionate learner, equipped to quickly adapt and excel in fast-paced environments, mastering necessary skills and knowledge along the way.
+<!-- ## **Job hunting**
+I am seeking **entry-level** positions in Hsinchu, Zhubei, and Zhunan. While I have a focused interest in embedded **firmware**, system **software**, and **AI/DSP/communications** algorithms, I am open to exploring all potential opportunities, regardless of their direct alignment with my academic background. 
+I am a keen and passionate learner, equipped to quickly adapt and excel in fast-paced environments, mastering necessary skills and knowledge along the way. -->
 
 
 ## **Education**
@@ -46,7 +50,10 @@ Competent, developed through extensive use in academic coursework and supplement
 
 
 ## **Work Experience**
-- **Research Assistant @ Research Center for Information Technology Innovation, Academia Sinica (*Oct. 2021 - Mar. 2024*)**
+- **Algorithm Engineer @ Information and Communications Research Laboratories (ICL), Industrial Technology Research Institute (ITRI) (*Aug. 2024 - Present*)**
+  - Link Level Simulator in pure C and MATLAB for PUCCH
+  - DSP code for Andes' AX45MPV and Tensilica's Xtensa processors
+- **Research Assistant @ Research Center for Information Technology Innovation (CITI), Academia Sinica (*Oct. 2021 - Mar. 2024*)**
   - Worst-case MSE Minimization for RIS-assisted mmWave MU-MISO Systems with Hardware Impairments and Imperfect CSI 
     <!--   - My thesis research introduces a novel DRL-based discrete optimization framework aimed at mitigating various hardware impairments and CSI imperfections in RIS-assisted mmWave MU-MISO systems. -->
   - A Deep Learning Approach for Automotive Radar Target Detection Using YOLO network
@@ -59,7 +66,7 @@ Competent, developed through extensive use in academic coursework and supplement
 
 
 ## **Working Paper (Under Review)**
-- S.-H. Chen, H.-Y. Chang, C.-Y. Wang, R.-H. Hwang, and W.-H. Chung, "Worst-case MSE Minimization for RIS-assisted mmWave MU-MISO Systems with Hardware Impairments and Imperfect CSI," submitted to *IEEE Global Commun. Conf. (GLOBECOM)*, Dec. 2024.
+- S.-H. Chen, H.-Y. Chang, C.-Y. Wang, R.-H. Hwang, and W.-H. Chung, "Worst-case MSE Minimization for RIS-assisted mmWave MU-MISO Systems with Hardware Impairments and Imperfect CSI," submitted to *IEEE Wireless Communications and Networking Conference (WCNC)*, Mar. 2025.
 
 
 ## **Publications**

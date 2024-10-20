@@ -66,7 +66,7 @@ Competent, developed through extensive use in academic coursework and supplement
 
 
 ## **Working Paper (Under Review)**
-- S.-H. Chen, H.-Y. Chang, C.-Y. Wang, R.-H. Hwang, and W.-H. Chung, "Worst-case MSE Minimization for RIS-assisted mmWave MU-MISO Systems with Hardware Impairments and Imperfect CSI," submitted to *IEEE Wireless Communications and Networking Conference (WCNC)*, Mar. 2025.
+- S.-H. Chen, H.-Y. Chang, C.-Y. Wang, R.-H. Hwang, and W.-H. Chung, "Worst-case MSE Minimization for RIS-assisted mmWave MU-MISO Systems with Hardware Impairments and Imperfect CSI," submitted to *IEEE Wireless Commu. and Netw. Conf. (WCNC)*, Mar. 2025.
 
 
 ## **Publications**

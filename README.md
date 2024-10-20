@@ -51,8 +51,8 @@ Competent, developed through extensive use in academic coursework and supplement
 
 ## **Work Experience**
 - **Algorithm Engineer @ Information and Communications Research Laboratories (ICL), Industrial Technology Research Institute (ITRI) (*Aug. 2024 - Present*)**
-  - Link Level Simulator in pure C and MATLAB for PUCCH
-  - DSP code for Andes' AX45MPV and Tensilica's Xtensa processors
+  - Link Level Simulator of PUCCH in pure C and MATLAB for testing and verifications
+  - Optimized DSP code for custom-designed RISC-V processors
 - **Research Assistant @ Research Center for Information Technology Innovation (CITI), Academia Sinica (*Oct. 2021 - Mar. 2024*)**
   - Worst-case MSE Minimization for RIS-assisted mmWave MU-MISO Systems with Hardware Impairments and Imperfect CSI 
     <!--   - My thesis research introduces a novel DRL-based discrete optimization framework aimed at mitigating various hardware impairments and CSI imperfections in RIS-assisted mmWave MU-MISO systems. -->
@@ -65,15 +65,15 @@ Competent, developed through extensive use in academic coursework and supplement
   - COM 5120 Communications Theory 
 
 
-## **Working Paper (Under Review)**
-- S.-H. Chen, H.-Y. Chang, C.-Y. Wang, R.-H. Hwang, and W.-H. Chung, "Worst-case MSE Minimization for RIS-assisted mmWave MU-MISO Systems with Hardware Impairments and Imperfect CSI," submitted to *IEEE Wireless Commu. and Netw. Conf. (WCNC)*, Mar. 2025.
+## **Working Paper**
+- S.-H. Chen, H.-Y. Chang, C.-Y. Wang, R.-H. Hwang, and W.-H. Chung, "Worst-case MSE Minimization for RIS-assisted mmWave MU-MISO Systems with Hardware Impairments and Imperfect CSI," submitted to *IEEE Wireless Commu. and Netw. Conf. (WCNC)*, Mar. 2025. **(Under Review)**
 
 
 ## **Publications**
 - C.-C. Lai\*, J.-C. Lin, and S.-H. Chen, "Human gender recognition using gait-based local zigzag pattern", in *ICIC Express Letters – An International Journal of Research and Surveys*, vol.14, no.12, 1209-1215, Dec. 2020.
 
 
-## **Graduate Courses / Grades**
+## **Graduate Courses**
 
 |  Course |  Grades |
 | ------- | ------- |
